@@ -18,6 +18,8 @@
   1. Download Files
   2. Clearbrowser cache
   3. Open Index File
+  4. Or can access online on 
+     https://adhito.github.io/
   </code>
 </pre>
 
