@@ -9,3 +9,13 @@
 	<li> 2101654352 -  Alldo Kurniawan </li>
 </ul>
 
+<h4><strong> Procedures To See Website</strong></h4>
+Install the following dependencies via pip:
+  <br/>
+<pre>
+  <code>
+  1. Download Files
+  2. Clearbrowser cache
+  3. Open Index File
+  </code>
+</pre>
