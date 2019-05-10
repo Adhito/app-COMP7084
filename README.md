@@ -26,7 +26,7 @@
 <ul> 
 	<li> Text - Page paragraph and description</li>
   	<li> Image - Ice cream pictures</li>
-	<li> Sound - Background Music</li>
+	<li> Sound - Audio are from youtube video when user chose to click it, we don't include background music since it may disturb the user</li>
   	<li> Animation - Picture will animate when hovered </li>
 	<li> Hyperlink - On about us page or footer when clicking social media icon page will be redirected </li>
 </ul>
