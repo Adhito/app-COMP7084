@@ -11,17 +11,26 @@
 
 
   <br/>
-<h4><strong> Procedures To Open Website</strong></h4>
+<h4><strong> Procedures To Open Website Through Source Code</strong></h4>
 
 <pre>
   <code>
   1. Download Files
   2. Clearbrowser cache
   3. Open index.html File
-  4. Or can access online on 
-     https://adhito.github.io/
   </code>
 </pre>
+
+  <br/>
+<h4><strong> Procedures To Open Website Online</strong></h4>
+
+<pre>
+  <code>
+  1. Open https://adhito.github.io/
+  </code>
+</pre>
+
+
 
 <br/>
 <h4><strong> Score Criteria </strong></h4>
