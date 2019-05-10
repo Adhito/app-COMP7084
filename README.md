@@ -21,7 +21,43 @@
   </code>
 </pre>
 
+<br/>
+<h4><strong> Score Criteria </strong></h4>
+<ul> 
+	<li> Text - Page paragraph and description</li>
+  	<li> Image - Ice cream pictures</li>
+	<li> Sound - Background Music</li>
+  	<li> Animation - Picture will animate when hovered </li>
+	<li> Hyperlink - On about us page or footer when clicking social media icon page will be redirected </li>
+</ul>
 
 
-
+<br/>
 <h4><strong> Screenshots </strong></h4>
+
+<br/>
+
+![Image 1](https://raw.githubusercontent.com/Adhito/Project_Web_Multimedia_IceCreamGelato/master/img/screenshots/Screen%20Shot%202019-05-10%20at%2013.48.34.png)
+
+<br/> <br/>
+______________________________________________________________________________________________________________________
+<br/> <br/>
+
+![Image 2](https://raw.githubusercontent.com/Adhito/Project_Web_Multimedia_IceCreamGelato/master/img/screenshots/Screen%20Shot%202019-05-10%20at%2013.48.50.png)
+
+<br/> <br/>
+______________________________________________________________________________________________________________________
+<br/> <br/> 
+
+![Image 3](https://raw.githubusercontent.com/Adhito/Project_Web_Multimedia_IceCreamGelato/master/img/screenshots/Screen%20Shot%202019-05-10%20at%2013.49.07.png)
+
+<br/> <br/>
+______________________________________________________________________________________________________________________
+<br/> <br/>
+
+![Image 4](https://raw.githubusercontent.com/Adhito/Project_Web_Multimedia_IceCreamGelato/master/img/screenshots/Screen%20Shot%202019-05-10%20at%2013.49.17.png)
+
+<br/> <br/>
+______________________________________________________________________________________________________________________
+<br/> <br/>
+
