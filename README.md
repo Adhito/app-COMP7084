@@ -17,7 +17,7 @@
   <code>
   1. Download Files
   2. Clearbrowser cache
-  3. Open Index File
+  3. Open index.html File
   4. Or can access online on 
      https://adhito.github.io/
   </code>
