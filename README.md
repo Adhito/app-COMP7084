@@ -64,13 +64,13 @@ ________________________________________________________________________________
 
 ![Image 3](https://raw.githubusercontent.com/Adhito/Project_Web_Multimedia_IceCreamGelato/master/img/screenshots/Screen%20Shot%202019-05-10%20at%2013.49.07.png)
 
-<br/> <br/>
+<br/> <br/> <br/>
 ______________________________________________________________________________________________________________________
-<br/> <br/>
+<br/> <br/> <br/>
 
 ![Image 4](https://raw.githubusercontent.com/Adhito/Project_Web_Multimedia_IceCreamGelato/master/img/screenshots/Screen%20Shot%202019-05-10%20at%2013.49.17.png)
 
-<br/> <br/>
+<br/> <br/> <br/>
 ______________________________________________________________________________________________________________________
-<br/> <br/>
+<br/> <br/> <br/>
 
